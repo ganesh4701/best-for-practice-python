@@ -1,1 +1,1 @@
-"# Best Projects for Beginers to practice" 
+Best Projects for Beginers to practice
